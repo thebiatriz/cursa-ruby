@@ -5,7 +5,7 @@ class Person
     end
 
     def check 
-        puts 'Instância de clase iniciada com os valores:'
+        puts 'Instância de classe iniciada com os valores:'
         puts "Name = #{@name}"
         puts "Idade = #{@age}"
     end
