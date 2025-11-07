@@ -1,0 +1,2 @@
+Frase original: 'Olá, tudo bem?'
+Resultado da tradução: 'How are you doing today?'
